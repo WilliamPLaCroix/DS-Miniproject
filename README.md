@@ -27,8 +27,8 @@ Also if your project will require authentication like passwords or usernames, th
 ## Credits
 ### Contributors:
 * Ho-Hsuan Wang:
-  * GitHub:
-  * LinkedIn:
+  * GitHub: https://github.com/rozariwang
+  * LinkedIn: www.linkedin.com/in/rosalie-wang-029
 * Kate Belcher:
   * GitHub: https://github.com/kate-belcher
   * LinkedIn: https://www.linkedin.com/in/kate-belcher/
