@@ -30,8 +30,8 @@ Also if your project will require authentication like passwords or usernames, th
   * GitHub:
   * LinkedIn:
 * Kate Belcher:
-  * GitHub:
-  * LinkedIn:
+  * GitHub: https://github.com/kate-belcher
+  * LinkedIn: https://www.linkedin.com/in/kate-belcher/
 * Nicholas Jennings
   * GitHub:
   * LinkedIn:
