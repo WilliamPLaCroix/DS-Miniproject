@@ -44,6 +44,8 @@ Also if your project will require authentication like passwords or usernames, th
   * LinkedIn: https://www.linkedin.com/in/williamplacroix/
 
 ### Tutorials/resources used: TODO
+* https://platform.openai.com/docs/api-reference/completions/create
+
 Also, if you followed tutorials or referenced a certain material that might help the user to build that particular project, include links to those here as well.
 
 This is just a way to show your appreciation and also to help others get a first hand copy of the project.
