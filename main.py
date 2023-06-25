@@ -47,4 +47,4 @@ def get_stock_data(ticker: str) -> "tuple[torch.tensor(), float]": # type: ignor
 
     annualized_ticker_info = annualized_ticker_info[column_names] # reorder columns
 
-    return torch.tensor(annualized_ticker_info.values.tolist()), annualized_ticker_info['Annual Percent Change']
+    return torch.Tensor(annualized_ticker_info.values.tolist()), annualized_ticker_info['Annual Percent Change']
